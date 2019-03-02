@@ -16,7 +16,7 @@ while good_link != True:
         print "bad link", test.status_code
 
 page = urllib2.urlopen(user_designated_page)#opens page in html
-soup=BeautifulSoup(page) #now usable by BeautifulSoup
+soup = BeautifulSoup(page) #now usable by BeautifulSoup
 
 for link in soup.findAll('a'):#parse http to get all links
     check = requests.head(link.get('href'), allow_redirects=True) #makes thing for requests to use, I cant get BS to do it
