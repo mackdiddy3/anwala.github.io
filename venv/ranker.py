@@ -17,7 +17,6 @@ while termIn < 10:
     if secondpass == 1:  # prevents an infinite loop on bad hardcoded keywords
         keyword = raw_input('please enter query term: ')
 
-
     totalDocs = 0
 
     for filename in glob.glob(os.path.join(path, '*~boilerplate')):
@@ -58,7 +57,6 @@ for filename in glob.glob(os.path.join(path, '*~boilerplate')):
         try:
             shortfilename = filename[10:-12] # filename without path
             htmlpath = filename[:-12] # path to full html file
-            # mainEntityOfPage is where the uri is located in the html file
 
             textbody = file.read().lower()  # extra step because obviously word and Word are different words
             wordcount = Counter(textbody.split())
