@@ -20,7 +20,7 @@ while i < 11:
     max_centrality = max(centrality, key=centrality.get)  # find strongest edge
     for edge in G.edges():  # color the edge that is about to be deleted
         if edge == max_centrality:
-            edge_color_map.append('red')
+            edge_color_map.append('red')  # edge to be removed
         else:
             edge_color_map.append('black')
     nx.draw(G, node_color=color_map, edge_color=edge_color_map, with_labels=True)
