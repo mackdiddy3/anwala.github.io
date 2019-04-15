@@ -1,0 +1,69 @@
+=================================================================
+PAPA JOHN'S -- BETTER INGREDIENTS, BETTER PIZZA.
+=================================================================
+
+Hello Mack,
+
+Thank you for placing your Papa John's pizza order via our Online Ordering service.  Please find below, details of your order:
+
+Customer ID:                    12345678
+Online Order Number:            987654321
+Order Type:                     Delivery
+Method of Payment:              CREDIT CARD
+Estimated Ready Time:  [Approximately 26-36 minutes]
+
+Order Detail:
+1         8pc Garlic Parmesan Wings                            8.00
+
+1         Large  Specialty                                    12.00
+          Large Crust Meatball Pepperoni 
+          Pepperoni  , Meatball, Three Cheese Blend
+
+          Total                                              $20.00
+
+          Delivery Fee                                        $3.00
+
+          Total Fees                                          $3.00
+
+          Tax                                                 $2.50
+
+          Tip                                                 $1.50
+
+          Grand Total                                        $27.00
+
+
+
+		  
+		  
+Restaurant:
+Papa John's Store #973
+4714 PORTSMOUTH BLVD
+PORTSMOUTH,VA 23701
+(123)456-7890
+
+
+Papa John's has made it easy to track your pizza's progress live with Papa Track! You can access this tool to check the status of your order. With Papa Track, you can see whether your pizza is Making, Baking, Ready, or On Its Way!
+
+https://www.papajohns.com/papa-track?orderType=Delivery&storeId=973&orderId=123456
+
+CLICK BELOW TO RETURN TO PAPA JOHN'S ONLINE.
+
+Any delivery fee charged is not a tip for the delivery driver. Please reward your driver with a tip for outstanding service.
+
+Thank you for choosing to order online with Papa John's pizza.  For questions regarding your order, please call your local restaurant at (123)456-7890. 
+
+In the event that the restaurant has a question about your order, or requires confirmation before your order is prepared, we will attempt to contact you by telephone.  If we are unable to reach you by telephone, you will receive an e-mail notification from a Papa John's Online Support Representative.
+
+Contact our Customer Care Team at http://pj.pizza/feedback
+
+=================================================================
+
+Visit our privacy policy at http://www.papajohns.com/privacy-policy.html
+
+Papa John's Online
+Company Address:
+Papa John's
+2002 Papa John's Blvd
+Louisville, KY, 40299
+
+(c) 2017 Papa John's International, Inc. All Rights Reserved.

@@ -1,0 +1,18 @@
+
+myemail@gmail.com
+We notice that you haven’t used your MEGA account recently. We would love to see you back!
+
+You can use our MEGA Desktop App (Windows, Mac and Linux) to automatically keep your computer data in sync with your MEGA account: https://mega.nz/sync
+
+You can use our MEGA Mobile Apps (Android and iOS) to automatically backup photos and videos to your MEGA account: https://mega.nz/mobile
+
+If you have forgotten your password, you can reset your account here.
+
+Please note that all your data on MEGA is encrypted with your password, which only you control. If you want to retain access to the data in your MEGA account, you either need your password, an active session or your Recovery Key.
+
+If you do not have a backup of your Recovery Key and you still have access to your MEGA account, now is a good time to make a secure backup of your Recovery Key.
+
+If you need any assistance or have any suggestions, feel free to contact us at support@mega.nz
+
+Best regards,
+— Team MEGA
